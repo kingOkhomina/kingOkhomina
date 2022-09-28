@@ -1,0 +1,56 @@
+body {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+}
+
+input {
+    width: 220px;
+    height: 30px;
+    border: 1px solid #b4b3b3;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+input:focus {
+    border: 1px solid rgb(139, 244, 139);
+}
+ h1 {
+    color: rgb(139, 244, 139);
+ }
+ .rate {
+  color: rgb(139, 244, 139);
+ }
+ button {
+    background-color: rgb(139, 244, 139);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+ }
+
+ .container {
+    font-family: sans-serif;
+    font-weight: bolder;
+    line-height: 2rem;
+    text-align: center;
+ }
+ select {
+  padding: 10px 20px 10px 10px;
+    background-color: rgb(113, 113, 245);
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+  p {
+    color: white;
+  }
+
+  .swap-container {
+    margin: 25px 0px;
+  }
